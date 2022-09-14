@@ -24,7 +24,7 @@ composer require web3p/web3.php dev-master
 Or you can add this line in composer.json
 
 ```
-"web3p/web3.php": "dev-master"
+"ndirpaya/web3.php": "dev-master"
 ```
 
 
